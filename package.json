@@ -1,0 +1,21 @@
+{
+  "name": "Formspree",
+  "version": "1.0.0",
+  "description": "Template to recieve emails thru Formspree",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cusco1982/Formspree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cusco1982/Formspree/issues"
+  },
+  "homepage": "https://github.com/cusco1982/Formspree#readme"
+}
