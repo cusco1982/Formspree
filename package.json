@@ -28,6 +28,7 @@
   },
   "homepage": "https://github.com/cusco1982/Formspree#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
   }
 }
